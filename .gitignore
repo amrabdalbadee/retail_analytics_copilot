@@ -1,0 +1,15 @@
+data/northwind.sqlite
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual envs
+venv/
+.env/
+
+# MacOS
+.DS_Store
+
+# SQLite
+*.sqlite
